@@ -1,5 +1,4 @@
 /*Var
-// Seção de Declarações das variáveis 
    valor1, valor2, resultado: real
    operacao: caractere
    
